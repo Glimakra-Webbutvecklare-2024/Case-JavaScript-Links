@@ -62,6 +62,7 @@ Utvecklingen av applikationen ska finnas dokumenterad på GitHub. Du ska ha gjor
 Här finns följande utmaningar. Anta en eller flera!
 
 En användare ska kunna
+- få ett statusmeddelande om hen försöker lägga in en felaktig/förbjuden länk
 - redigera en länk 
 - flytta en länk uppåt eller nedåt i listan
 - använd array för att lägga till länkar, ex initialt fylla en tom lista med några länkar
