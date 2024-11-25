@@ -26,23 +26,25 @@ Dela upp struktur, innehåll, design och logik. Använd externa filer för CSS o
 
 ### Starta ditt arbete
 Skapa ett privat repo på GitHub och koppla det till din lokala utvecklingsmiljö (Visual Studio Code).
-Under projektet - senast 8 decemeber bjuder du in dina lärare. Se Settings -> Manage access -> Add people
+Under projektet - senast 28 november bjuder du in dina lärare. Se Settings -> Manage access -> Add people
 
-Lägg till
+**Lägg till**
 
-andsju (Anders)
-
-frozenbanana (Henry)
-
-addkolon [Mattias]
+- andsju (Anders)
+- frozenbanana (Henry)
+- addkolon [Mattias]
 
 ***
 
 ### Grundläggande krav
+Applikationen ska
+- visa en tom länklista när sidan läses in
+- inte skapa ett listelement om det inte finns en url eller länktext angiven
+
 En användare ska kunna
 - lägga till en länk
 - ta bort en länk
-- markera en länk
+- markera en länk (visuellt markera en länk item som favorit)
 
 ### Grundläggande designkrav
 - Figma-skiss
@@ -67,13 +69,12 @@ En användare ska kunna
 - flytta en länk uppåt eller nedåt i listan
 - använd array för att lägga till länkar, ex initialt fylla en tom lista med några länkar
 - designa sidan så att den som besöker sidan ser vilken kategori av länkar som är tanken (film, musik, historia...) 
-
-Listan ska kunna fungera för mobil och skärm.
+- listan ska kunna fungera för mobil och skärm. (med media query)
 
 ***
 
 ### Inlämning och redovisning
-Redovisning av caset är den 19 december.
+Redovisning av caset är den 12 december kl 08:45.
 
 Förbered er på att redovisa applikationen på ca 5 minuter. Då visar ni (demonstrerar) er applikation genom att dela skärm.
 Vi ränkar med att redovisningen startar kl 9:00.
@@ -90,6 +91,6 @@ Vi ränkar med att redovisningen startar kl 9:00.
 Redovisningen sker i bokstavordning (efternamn A-Ö)
 
 ### Handledning
-Det kommer finnas möjlighet till handledning fram tills den 19 december. I första hand är det under vanlig lektionstid.
+Det kommer finnas möjlighet till handledning fram tills den 11 december kl 15:00 ⏰. I första hand är det under vanlig lektionstid.
 
 Lycka till!
